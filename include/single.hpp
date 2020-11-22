@@ -1,0 +1,2 @@
+void ctorDtor();
+void intvec();
